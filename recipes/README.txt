@@ -1,0 +1,1 @@
+Put your receipes in this directory, one receipe per file.
